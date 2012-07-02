@@ -14,6 +14,8 @@ This uses the gravityscript code which is created from google gravity. <br>
 Press the Fork button in github. Now you have a project that is: <br>
 username/ieee8023.github.com <br>
 
+!!DONT pull the repo and then push it!!<br>
+
 Now go the the admin screen for that repo and rename it to: <br>
 username/username.github.com <br>
 
