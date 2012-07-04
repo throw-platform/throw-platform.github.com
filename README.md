@@ -50,14 +50,16 @@ These images will start in these locations. If they have a <code>grav</code> tag
 to gravity. If they have a <code>solid</code> tag they will stay where they are and 
 prevent images with a <code>grav</code> tag from moving through them.
 
-<h2>Images<h2>
+<h2>Images</h2>
 
 You can specify images from a Google Image search result or anywhere else on the web:
 
 <code> &lt;img class="grav" style="left:700px" src="http://www.rareresource.com/images/dinosaurs/carnotauros.png"/&gt; </code>
 
+If the images are too big you can resize them and upload them somewhere or just scale them
+with code. You can specify the width with <code>style="width:50px"</code>
 
-
+<code> &lt;img class="grav" src="img/money.png" style="width:50px"&gt; </code>
 
 
 
