@@ -68,7 +68,7 @@ a link to <code>http://ieee8023.github.com</code> but with your username.  If yo
 another game there are 2 ways to do this:
 
 Pull your repository and copy the index.htm file to something like game2.htm and then 
-add, commit, and push your repo back to github.  Now your game is avaliable at 
+add, commit, and push your repo back to github.  Now your game is available at 
 <code>http://ieee8023.github.com/game2.htm</code> 
 
 The easier way is just to create another github account and fork the game again.
