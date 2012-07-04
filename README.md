@@ -61,5 +61,15 @@ with code. You can specify the width with <code>style="width:50px"</code>
 
 <code> &lt;img class="grav" src="img/money.png" style="width:50px"&gt; </code>
 
+<h2>More then one game</h2>
 
+If you make one game and call it <code>index.htm</code> then you would just send people
+a link to <code>http://ieee8023.github.com</code> but with your username.  If you want 
+another game there are 2 ways to do this:
+
+Pull your repository and copy the index.htm file to something like game2.htm and then 
+add, commit, and push your repo back to github.  Now your game is avaliable at 
+<code>http://ieee8023.github.com/game2.htm</code> 
+
+The easier way is just to create another github account and fork the game again.
 
