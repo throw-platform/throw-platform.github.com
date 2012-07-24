@@ -24,7 +24,7 @@ http://username.github.com <br>
 
 <h1>Steps to make your own game</h1>
 
-How that you have your own copy on github you can go to the index.htm 
+Now that you have your own copy on github you can go to the index.htm 
 file and click edit in the upper right hand corner.  When you are finished
 editing the file you can press the Commit Changes button in the lower
 right hand corner.
