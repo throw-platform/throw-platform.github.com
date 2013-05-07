@@ -1,0 +1,9 @@
+<center>
+<span class="grav" style="background-color:red; font-size:30pt;">T</span>
+<span class="grav" style="background-color:red; font-size:30pt;">H</span>
+<span class="grav" style="background-color:red; font-size:30pt;">R</span>
+<span class="grav" style="background-color:red; font-size:30pt;">O</span>
+<span class="grav" style="background-color:red; font-size:30pt;">W</span>
+</center>
+
+<script src="http://gravityscript.googlecode.com/svn/trunk/throw.js"></script>
