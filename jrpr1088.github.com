@@ -23,21 +23,6 @@ Released under the GPLv3 License
 
 
 
-<script type="text/javascript">
-function impact(object1, object2){
-
-object1.innerHTML = parseInt(object1.innerHTML) +1
-object2.innerHTML = parseInt(object2.innerHTML) +1
-  
-}
-</script>
-
-<span class="grav" style="background-color:red;font-size:30pt;">00</span>
-<span class="grav" style="background-color:yellow;font-size:30pt;">00</span>
-<span class="grav" style="background-color:cyan;font-size:30pt;">00</span>
-<span class="grav" style="background-color:green;font-size:30pt;">00</span>
-
-<script src="http://gravityscript.googlecode.com/svn/trunk/throw.js"></script>
 
 function impact(object1, object2){
 
