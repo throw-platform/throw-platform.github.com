@@ -20,6 +20,13 @@ Released under the GPLv3 License
 
 </bottom>
 
+<img src="http://throw-platform.github.com/img/turkey.png" />
+
+<img class="grav" src="http://throw-platform.github.com/img/turkey.png" />
+
+
+<script src="http://gravityscript.googlecode.com/svn/trunk/throw.js"></script>
+ 
 
 
 
