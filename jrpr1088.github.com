@@ -21,16 +21,7 @@ Released under the GPLv3 License
 </center>
 
 
-<!--Here we make a solid platform-->
-<!--The position is set to absolute so we can set the right to 0 and bottom to 100-->
-<span class="solid" 
-style="
-background-color:green; 
-font-size:80pt;
-position:absolute;
-right:0px;
-bottom:100px"
->PLATFORM</span>
+
 
 <script type="text/javascript">
 function impact(object1, object2){
