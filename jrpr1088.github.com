@@ -48,6 +48,9 @@ object2.innerHTML = parseInt(object2.innerHTML) +1
 
 <script src="http://gravityscript.googlecode.com/svn/trunk/throw.js"></script>
 
+function impact(object1, object2){
+
+}
 
 
 
