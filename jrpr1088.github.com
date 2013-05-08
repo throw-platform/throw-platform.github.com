@@ -18,7 +18,7 @@ Released under the GPLv3 License
 
 <script src="http://gravityscript.googlecode.com/svn/trunk/throw.js"></script>
 
-</center>
+</bottom>
 
 
 
